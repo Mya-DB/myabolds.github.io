@@ -1,0 +1,15 @@
+# Maps a publication's `abbr` field to a link/color for the badge shown on the publications page.
+"SIGCHI":
+  url: https://chi2024.acm.org/
+  color: "#2BA7C4"
+
+"FAccT":
+  url: https://facctconference.org/
+  color: "#C23C72"
+
+"RESPECT":
+  url: https://respect-conference.org/
+  color: "#D9A53B"
+
+"In submission":
+  color: "#d63384"

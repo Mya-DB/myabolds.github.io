@@ -1,0 +1,9 @@
+# Powers the (currently hidden) /repositories/ page. Add your own GitHub username/repos here
+# and set `nav: true` in _pages/repositories.md if you'd like to show it.
+github_users:
+  # - your-github-username
+
+repo_description_lines_max: 2
+
+github_repos:
+  # - your-username/your-repo

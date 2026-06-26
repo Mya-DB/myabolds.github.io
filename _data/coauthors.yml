@@ -1,0 +1,6 @@
+# Maps a coauthor's last name (lowercase) to alternate first-name spellings and a profile URL,
+# so jekyll-scholar can link their name in your publication lists.
+# Example:
+# "munyaka":
+#   - firstname: ["Imani", "Imani N. S.", "Imani N. S. Munyaka"]
+#     url: https://example.com/imani-munyaka

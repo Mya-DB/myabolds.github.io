@@ -1,0 +1,263 @@
+{
+  "basics": {
+    "name": "Mya Bolds",
+    "label": "Ph.D. Candidate, Computer Science & Engineering",
+    "image": "",
+    "email": "mbolds@ucsd.edu",
+    "location": {
+      "address": null,
+      "postalCode": null,
+      "city": "La Jolla",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "University of California, San Diego",
+      "position": "Graduate Student Researcher",
+      "location": "La Jolla, CA",
+      "startDate": "2022-08-01",
+      "summary": "",
+      "highlights": [
+        "Designing a domain-adaptation framework to mitigate bias in AI systems.",
+        "Led a mixed-methods study training nine paired conditional GANs to replicate Instagram beauty-filter transformations, and directed a student team building a Smart Mirror system (Java/HTML/CSS, Python/Flask, SQL + Supabase) to deploy the models live, run user surveys, and audit how filter-induced changes shift AI predictions of race, age, gender, and emotion.",
+"Built a bias-auditing pipeline using computer vision, Python, pretrained models, and statistical modeling to quantify how beauty filters alter facial features, and what role Western beauty standards play in that shift."
+      ]
+    },
+    {
+      "name": "University of California, San Diego",
+      "position": "Teaching Assistant: Deep Learning",
+      "location": "La Jolla, CA",
+      "startDate": "2026-03-01",
+      "endDate": "2026-06-01",
+      "summary": "",
+      "highlights": [
+        "Held weekly office hours and graded coursework on core architectures (MLPs, CNNs, RNNs) and foundational methods (backpropagation, automatic differentiation).",
+        "Designed homework on recurrent neural networks and lectured on CNN architecture for undergraduate deep learning instruction."
+      ]
+    },
+    {
+      "name": "Xerox-Lexmark",
+      "position": "Data Scientist Intern",
+      "location": "Lexington, KY",
+      "startDate": "2025-06-01",
+      "endDate": "2025-09-01",
+      "summary": "",
+      "highlights": [
+        "Built an agentic automation prototype in Databricks (PySpark, SQL, Python, LangChain) to streamline data cleaning across the Medallion architecture.",
+        "Fine-tuned Microsoft's Florence VLM on Azure ML to classify and diagnose print-quality errors; improved inference through prompt engineering and tracked experiments with MLflow and Optuna/manual hyperparameter tuning.",
+        "Researched agentic automation with Claude and MCP servers, designing prompt-driven pipelines for data cleaning and ingestion.",
+        "Joined cross-functional reviews to assess model-pipeline production readiness."
+      ]
+    },
+    {
+      "name": "University of California, San Diego",
+      "position": "Teaching Assistant: Machine Learning for Music",
+      "location": "La Jolla, CA",
+      "startDate": "2025-03-01",
+      "endDate": "2025-06-01",
+      "summary": "",
+      "highlights": [
+        "Built and maintained course notebooks applying logistic regression, SVMs, k-NN, TF-IDF, and stratified k-fold cross-validation.",
+        "Wrote technical slide content on linear regression, neural networks, activation functions, CNNs, and evaluation metrics."
+      ]
+    },
+    {
+      "name": "University of California, San Diego",
+      "position": "Teaching Assistant: Interaction Design Research (HCI)",
+      "location": "La Jolla, CA",
+      "startDate": "2024-09-01",
+      "endDate": "2024-12-01",
+      "summary": "",
+      "highlights": [
+        "Supported student learning on prototyping, social computing, and interface evaluation.",
+        "Reviewed student-led discussions and paper commentaries to sharpen critical analysis."
+      ]
+    },
+    {
+      "name": "Xerox-Lexmark",
+      "position": "Data Engineer Intern",
+      "location": "Remote",
+      "startDate": "2022-06-01",
+      "endDate": "2022-08-01",
+      "summary": "",
+      "highlights": [
+        "Transformed raw data into customer-preferred formats and built a cleansing pipeline using Databricks' Medallion architecture, Python, and SQL.",
+        "Helped migrate data from the Big Decisions platform into Databricks."
+      ]
+    },
+    {
+      "name": "Xavier University of Louisiana, Computer Science Department",
+      "position": "Build Research Technician",
+      "location": "Hybrid",
+      "startDate": "2021-06-01",
+      "endDate": "2022-06-01",
+      "summary": "",
+      "highlights": [
+        "Used the Flickr Faces dataset to study facial-recognition accuracy gaps between lighter and darker skin tones, and logged false positives in the Haar Cascade algorithm.",
+        "Tested edge detection for textured/coily hair, comparing afro and straight hair via the Structural Similarity Index."
+      ]
+    },
+    {
+      "name": "University of California, San Diego STARS Research Program",
+      "position": "Research Intern",
+      "location": "La Jolla, CA",
+      "startDate": "2019-06-01",
+      "endDate": "2019-08-01",
+      "summary": "",
+      "highlights": [
+        "Helped build a framework to precisely locate a drone via an attached microchip, including a Python script to identify the chip's position.",
+        "Used a Kalman filter to fuse IMU and microchip data for a refined position estimate."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Girls Inc",
+      "location": "La Jolla, CA",
+      "position": "Educational Workshop Leader",
+      "startDate": "2024-07-01",
+      "endDate": "2024-07-01",
+      "summary": "Led a Capture the Flag workshop teaching cyber-safety to high schoolers from underrepresented backgrounds through interactive challenges.",
+      "highlights": []
+    },
+    {
+      "organization": "FANCY Girls Workshop",
+      "location": "San Diego, CA",
+      "position": "Digital Safety Instructor",
+      "startDate": "2024-04-01",
+      "endDate": "2024-04-01",
+      "summary": "Organized a small-scale Capture the Flag workshop teaching online safety to middle schoolers from underrepresented backgrounds.",
+      "highlights": []
+    },
+    {
+      "organization": "UCSD STARS Mentor Program",
+      "location": "La Jolla, CA",
+      "position": "Graduate Advocate Mentor",
+      "startDate": "2022-06-01",
+      "endDate": "2022-08-01",
+      "summary": "Mentored undergraduate HBCU students on Ph.D. preparation through weekly meetings covering imposter syndrome, conference presentation, abstract writing, and reading/writing research papers.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of California, San Diego",
+      "location": "La Jolla, CA",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Ph.D.",
+      "startDate": "",
+      "endDate": "2028-06-01",
+      "score": "Expected 2028",
+      "courses": [
+        "Advanced Computer Vision",
+        "Theoretical Aspects of Large Language Models",
+        "Computer Vision II",
+        "Web Mining & Recommender Systems (Machine Learning)",
+        "Statistical Natural Language Processing",
+        "Computer Vision I",
+        "Principles of Software Development",
+        "Interaction Design Research (HCI)"
+      ],
+      "highlights": []
+    },
+    {
+      "institution": "University of California, San Diego",
+      "location": "La Jolla, CA",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "",
+      "endDate": "2025-01-01",
+      "score": "",
+      "courses": [],
+      "highlights": []
+    },
+    {
+      "institution": "Xavier University of Louisiana",
+      "location": "New Orleans, LA",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "",
+      "endDate": "2021-01-01",
+      "score": "",
+      "courses": [],
+      "highlights": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Gem Fellow",
+      "date": "",
+      "awarder": "",
+      "url": "",
+      "summary": "Present"
+    },
+    {
+      "title": "UC-HBCU Fellow",
+      "date": "",
+      "awarder": "",
+      "url": "",
+      "summary": "Present"
+    },
+    {
+      "title": "Sloan Scholar",
+      "date": "",
+      "awarder": "",
+      "url": "",
+      "summary": "Present"
+    },
+    {
+      "title": "McNair Scholar",
+      "date": "2018-01-01",
+      "awarder": "",
+      "url": "",
+      "summary": "2018 – 2021"
+    },
+    {
+      "title": "Norman C. Francis Full-Tuition Scholarship",
+      "date": "2017-01-01",
+      "awarder": "",
+      "url": "",
+      "summary": "2017 – 2021"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming & Tools",
+      "level": null,
+      "icon": "",
+      "keywords": [
+        "Python", "Java", "SQL", "R", "PySpark", "Databricks", "Unity Catalog", "LangChain",
+        "Swift", "React Native", "Optuna", "Azure ML", "MLflow", "TensorFlow", "Keras",
+        "PyTorch", "Scikit-learn", "OpenCV", "Dlib", "MATLAB", "Model Context Protocol",
+        "Git", "Matplotlib", "Seaborn", "Plotly", "Pandas"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "level": null,
+      "icon": "",
+      "keywords": [
+        "Computer Vision", "Natural Language Processing", "Vision-Language Models",
+        "Transfer Learning", "Fine-tuning", "Prompt Engineering", "Hyperparameter Tuning",
+        "Agentic Modeling", "MLOps"
+      ]
+    },
+    {
+      "name": "Research & Analysis",
+      "level": null,
+      "icon": "",
+      "keywords": [
+        "Experimental Design", "Quantitative Analysis", "Qualitative Research",
+        "Data Visualization", "Data Normalization", "Data Pre-processing",
+        "Automated Pipeline Engineering", "Web Scraping", "Cross-functional Collaboration",
+        "Production Readiness Assessment", "Technical Communication"
+      ]
+    }
+  ]
+}
