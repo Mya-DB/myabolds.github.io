@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My research sits at the intersection of Machine Learning and Human-Computer Interaction. I evaluate and mitigate biases in AI using applied Machine Learning.
+My research sits at the intersection of <span style="color: #d63384; font-weight: 600;">Machine Learning</span> and <span style="color: #d63384; font-weight: 600;">Human-Computer Interaction</span>. I evaluate and mitigate biases in AI using applied <span style="color: #d63384; font-weight: 600;">Machine Learning</span>.
 
 Outside the lab, I run cyber-safety and digital-literacy workshops for girls from underrepresented backgrounds, and mentor undergraduates on Ph.D. prep through UCSD's STARS program.
 
